@@ -1,0 +1,546 @@
+{
+  "Auth.Api.dll": {
+    "C:\\S2\\Latest\\TMS\\Auth\\Auth.Api\\Infrastructure\\Handlers\\AccessTokenHttpMessageHandler.cs": {
+      "Auth.Api.Infrastructure.Handlers.AccessTokenHttpMessageHandler": {
+        "System.Void Auth.Api.Infrastructure.Handlers.AccessTokenHttpMessageHandler::.ctor(Microsoft.AspNetCore.Http.IHttpContextAccessor)": {
+          "Lines": {
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0
+          },
+          "Branches": []
+        }
+      },
+      "Auth.Api.Infrastructure.Handlers.AccessTokenHttpMessageHandler/<SendAsync>d__2": {
+        "System.Void Auth.Api.Infrastructure.Handlers.AccessTokenHttpMessageHandler/<SendAsync>d__2::MoveNext()": {
+          "Lines": {
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0
+          },
+          "Branches": [
+            {
+              "Line": 20,
+              "Offset": 14,
+              "EndOffset": 25,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 20,
+              "Offset": 14,
+              "EndOffset": 275,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\S2\\Latest\\TMS\\Auth\\Auth.Api\\Program.cs": {
+      "Trip.Api.Program": {
+        "System.Void Trip.Api.Program::Main(System.String[])": {
+          "Lines": {
+            "9": 0,
+            "10": 0,
+            "11": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Hosting.IWebHost Trip.Api.Program::BuildWebHost(System.String[])": {
+          "Lines": {
+            "14": 0,
+            "15": 0,
+            "16": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\S2\\Latest\\TMS\\Auth\\Auth.Api\\Startup.cs": {
+      "Trip.Api.Startup": {
+        "Microsoft.Extensions.Configuration.IConfiguration Trip.Api.Startup::get_Configuration()": {
+          "Lines": {
+            "32": 4
+          },
+          "Branches": []
+        },
+        "System.Void Trip.Api.Startup::ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)": {
+          "Lines": {
+            "37": 1,
+            "39": 1,
+            "40": 2,
+            "41": 2,
+            "42": 3,
+            "43": 0,
+            "44": 3,
+            "45": 3,
+            "46": 3,
+            "47": 2,
+            "51": 1,
+            "52": 1,
+            "54": 1,
+            "55": 2,
+            "57": 1,
+            "61": 1,
+            "65": 1,
+            "67": 1,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 1,
+            "72": 2,
+            "73": 2,
+            "74": 2,
+            "75": 2,
+            "80": 1,
+            "81": 1,
+            "85": 1,
+            "86": 2,
+            "87": 1,
+            "91": 1,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0,
+            "107": 1
+          },
+          "Branches": [
+            {
+              "Line": 39,
+              "Offset": 8,
+              "EndOffset": 10,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 39,
+              "Offset": 8,
+              "EndOffset": 33,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 54,
+              "Offset": 69,
+              "EndOffset": 71,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 54,
+              "Offset": 69,
+              "EndOffset": 94,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            },
+            {
+              "Line": 67,
+              "Offset": 171,
+              "EndOffset": 173,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 1
+            },
+            {
+              "Line": 67,
+              "Offset": 171,
+              "EndOffset": 196,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 1
+            },
+            {
+              "Line": 85,
+              "Offset": 239,
+              "EndOffset": 241,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 1
+            },
+            {
+              "Line": 85,
+              "Offset": 239,
+              "EndOffset": 264,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 1
+            },
+            {
+              "Line": 91,
+              "Offset": 283,
+              "EndOffset": 285,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 1
+            },
+            {
+              "Line": 91,
+              "Offset": 283,
+              "EndOffset": 308,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 1
+            },
+            {
+              "Line": 41,
+              "Offset": 13,
+              "EndOffset": 15,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 41,
+              "Offset": 13,
+              "EndOffset": 38,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 42,
+              "Offset": 7,
+              "EndOffset": 9,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 42,
+              "Offset": 7,
+              "EndOffset": 32,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Void Trip.Api.Startup::Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IHostingEnvironment)": {
+          "Lines": {
+            "111": 1,
+            "112": 1,
+            "113": 0,
+            "114": 0,
+            "115": 0,
+            "117": 1,
+            "118": 1,
+            "119": 1,
+            "121": 1,
+            "122": 1,
+            "123": 1,
+            "124": 1,
+            "125": 1,
+            "126": 2,
+            "127": 2,
+            "128": 2,
+            "129": 1,
+            "130": 1
+          },
+          "Branches": [
+            {
+              "Line": 112,
+              "Offset": 9,
+              "EndOffset": 11,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 112,
+              "Offset": 9,
+              "EndOffset": 22,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 125,
+              "Offset": 72,
+              "EndOffset": 74,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 125,
+              "Offset": 72,
+              "EndOffset": 97,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Void Trip.Api.Startup::ConfigureConsul(Microsoft.Extensions.DependencyInjection.IServiceCollection)": {
+          "Lines": {
+            "133": 1,
+            "134": 1,
+            "136": 1,
+            "137": 1
+          },
+          "Branches": []
+        },
+        "System.Void Trip.Api.Startup::.ctor(Microsoft.Extensions.Configuration.IConfiguration)": {
+          "Lines": {
+            "27": 1,
+            "28": 1,
+            "29": 1,
+            "30": 1,
+            "33": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\S2\\Latest\\TMS\\Auth\\Auth.Api\\Services\\UserService.cs": {
+      "Trip.Api.Services.UserService": {
+        "System.Collections.Generic.List`1<Trip.Api.Models.User> Trip.Api.Services.UserService::Get()": {
+          "Lines": {
+            "35": 1
+          },
+          "Branches": []
+        },
+        "Trip.Api.Models.User Trip.Api.Services.UserService::Authenticate(System.String,System.String)": {
+          "Lines": {
+            "38": 2,
+            "39": 2,
+            "42": 2,
+            "43": 1,
+            "46": 1,
+            "47": 1,
+            "48": 1,
+            "49": 1,
+            "50": 1,
+            "51": 1,
+            "52": 1,
+            "53": 1,
+            "54": 1,
+            "55": 1,
+            "56": 1,
+            "57": 1,
+            "58": 1,
+            "59": 1,
+            "62": 1,
+            "64": 1,
+            "65": 2
+          },
+          "Branches": [
+            {
+              "Line": 42,
+              "Offset": 216,
+              "EndOffset": 218,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 42,
+              "Offset": 216,
+              "EndOffset": 226,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        },
+        "Trip.Api.Models.User Trip.Api.Services.UserService::Create(Trip.Api.Models.User)": {
+          "Lines": {
+            "68": 1,
+            "69": 1,
+            "70": 1,
+            "71": 1
+          },
+          "Branches": []
+        },
+        "System.Void Trip.Api.Services.UserService::.ctor(Trip.Api.Models.IUserstoreDatabaseSettings,Microsoft.Extensions.Options.IOptions`1<Trip.Api.Infrastructure.Helpers.AppSettings>)": {
+          "Lines": {
+            "22": 1,
+            "23": 1,
+            "24": 1,
+            "25": 1,
+            "27": 1,
+            "29": 1,
+            "30": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\S2\\Latest\\TMS\\Auth\\Auth.Api\\Models\\Login.cs": {
+      "Trip.Api.Models.Login": {
+        "System.String Trip.Api.Models.Login::get_UserName()": {
+          "Lines": {
+            "10": 8
+          },
+          "Branches": []
+        },
+        "System.String Trip.Api.Models.Login::get_Password()": {
+          "Lines": {
+            "11": 8
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\S2\\Latest\\TMS\\Auth\\Auth.Api\\Models\\User.cs": {
+      "Trip.Api.Models.User": {
+        "System.String Trip.Api.Models.User::get_Id()": {
+          "Lines": {
+            "13": 51
+          },
+          "Branches": []
+        },
+        "System.String Trip.Api.Models.User::get_FirstName()": {
+          "Lines": {
+            "14": 49
+          },
+          "Branches": []
+        },
+        "System.String Trip.Api.Models.User::get_LastName()": {
+          "Lines": {
+            "15": 49
+          },
+          "Branches": []
+        },
+        "System.String Trip.Api.Models.User::get_UserName()": {
+          "Lines": {
+            "16": 51
+          },
+          "Branches": []
+        },
+        "System.String Trip.Api.Models.User::get_Password()": {
+          "Lines": {
+            "17": 50
+          },
+          "Branches": []
+        },
+        "System.String Trip.Api.Models.User::get_Email()": {
+          "Lines": {
+            "18": 49
+          },
+          "Branches": []
+        },
+        "System.String Trip.Api.Models.User::get_Role()": {
+          "Lines": {
+            "19": 50
+          },
+          "Branches": []
+        },
+        "System.String Trip.Api.Models.User::get_Token()": {
+          "Lines": {
+            "20": 49
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\S2\\Latest\\TMS\\Auth\\Auth.Api\\Models\\UserstoreDatabaseSettings.cs": {
+      "Trip.Api.Models.UserstoreDatabaseSettings": {
+        "System.String Trip.Api.Models.UserstoreDatabaseSettings::get_UsersCollectionName()": {
+          "Lines": {
+            "5": 3
+          },
+          "Branches": []
+        },
+        "System.String Trip.Api.Models.UserstoreDatabaseSettings::get_ConnectionString()": {
+          "Lines": {
+            "6": 3
+          },
+          "Branches": []
+        },
+        "System.String Trip.Api.Models.UserstoreDatabaseSettings::get_DatabaseName()": {
+          "Lines": {
+            "7": 3
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\S2\\Latest\\TMS\\Auth\\Auth.Api\\Infrastructure\\Helpers\\AppSettings.cs": {
+      "Trip.Api.Infrastructure.Helpers.AppSettings": {
+        "System.String Trip.Api.Infrastructure.Helpers.AppSettings::get_Secret()": {
+          "Lines": {
+            "10": 3
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\S2\\Latest\\TMS\\Auth\\Auth.Api\\Controllers\\UsersController.cs": {
+      "Trip.Api.Controllers.UsersController": {
+        "Microsoft.AspNetCore.Mvc.IActionResult Trip.Api.Controllers.UsersController::Login(Trip.Api.Models.Login)": {
+          "Lines": {
+            "23": 2,
+            "24": 2,
+            "26": 2,
+            "27": 1,
+            "29": 1,
+            "30": 2
+          },
+          "Branches": [
+            {
+              "Line": 26,
+              "Offset": 31,
+              "EndOffset": 33,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 26,
+              "Offset": 31,
+              "EndOffset": 52,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        },
+        "Microsoft.AspNetCore.Mvc.ActionResult`1<System.Collections.Generic.List`1<Trip.Api.Models.User>> Trip.Api.Controllers.UsersController::Get()": {
+          "Lines": {
+            "34": 1
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.ActionResult`1<Trip.Api.Models.User> Trip.Api.Controllers.UsersController::Create(Trip.Api.Models.User)": {
+          "Lines": {
+            "38": 1,
+            "39": 1,
+            "41": 1,
+            "42": 1
+          },
+          "Branches": []
+        },
+        "System.Void Trip.Api.Controllers.UsersController::.ctor(Trip.Api.Services.UserService)": {
+          "Lines": {
+            "15": 4,
+            "16": 4,
+            "17": 4,
+            "18": 4
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}
